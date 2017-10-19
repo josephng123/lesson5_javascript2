@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 18, 2017
 
 ### Student Name:  
-(First and Last Name)
+Joseph Ng
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project, we demonstrated further knowledge about Javascript through creating an Income Tax Calculator Application.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://josephng123.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The functions of if/else statements were executed in how taxes are calculated.
+2. Keeping track of numbers and commenting in labels are important in reading code easier.
+3. Javascript brings to life applications that are helpful and almost essential in some cases.
 
